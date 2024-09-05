@@ -15,5 +15,7 @@
 > # Why must I yump?
 > Those ! blocks won't fill themselves, you know... it's also a mish-mash of tiny fun creative services you might like, if you're into that type of thing.
 
+> # Yump me to \[x]...
+> Sure — just use yump.me/xxx to yump to its corresponding place! Some yumps might require a password, or for you to unlock something... it's a fun, slightly less efficient take on a standard URL shortener.
 > # can i haz color pls
 > #8589ed
