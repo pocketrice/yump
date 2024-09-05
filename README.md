@@ -14,7 +14,7 @@
 > - **yump.me/** — url shortener!!
 
 > # Why must I yump?
-> Those ! blocks won't fill themselves, you know... :<
+> Those ! blocks won't fill themselves, you know... it's also a mish-mash of tiny fun creative services you might like, if you're into that type of thing.
 
 > # can i haz color pls
 > #8589ed
