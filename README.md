@@ -1,5 +1,4 @@
-# yump
-Repo for all things https://yump.me! (〃^∇^)ﾉ
+
 ![yumplogo](https://github.com/user-attachments/assets/5b95936c-42bc-4cca-86d2-6c2ddea446ff)
 
 > # What's a yump?
