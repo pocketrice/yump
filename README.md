@@ -8,7 +8,7 @@
 > glad you asked! (୨୧ ❛ᴗ❛)✧
 > - **stock.yump.me** — CDN / bulk item storage
 > - **bin.yump.me** — private pastebin
-> - **palace.yump.me** — switch palace-turned collab space; yump practice
+> - **palace.yump.me** — switch palace-turned collab space; SMW-accurate yump practice
 > - **warp.yump.me** — a Warppipe interface
 > - **starroad.yump.me** — a secret world of mysteries (and secret exits)
 > - **yump.me/** — url shortener!!
