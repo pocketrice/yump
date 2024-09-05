@@ -1,5 +1,4 @@
-
-![yumplogo](https://github.com/user-attachments/assets/9b83bca9-40d1-49da-95b1-22ce197b2769)
+![yumplogo](https://github.com/user-attachments/assets/bcfe8874-3aae-4193-a2d5-a096968f7fb1)
 
 > # What's a yump?
 > See https://smwspeedruns.com/Yump. 
