@@ -3,11 +3,14 @@
 > # What's a yump?
 > See https://smwspeedruns.com/Yump. 
 
+> # Why must I yump?
+> It's a mish-mash of tiny fun creative services you might like, if you're into that type of thing. Also, those ! blocks won't fill themselves, you know... 
+
 > # What can I yump?
 > glad you asked! (୨୧ ❛ᴗ❛)✧
 >
 > Useful things...
-> - **stock.yump.me** — CDN / bulk item storage
+> - **stock.yump.me** — CDN, library/archive, bulk item storage
 > - **nb.yump.me** — audio storage syncing, khinsider dl, ID3 editor, stylish audio player
 > - **bin.yump.me** — private pastebin / Markdown notepad
 > - **ins.yump.me** — cheatsheets, api docs, etc.
@@ -28,8 +31,6 @@
 > - **dont.yump.me** — rest stop for internet travelers
 
 
-> # Why must I yump?
-> It's a mish-mash of tiny fun creative services you might like, if you're into that type of thing. Also, those ! blocks won't fill themselves, you know... 
 
 > # Yump me to \[x]...
 > Sure — just use yump.me/xxx to yump to its corresponding place! Some yumps might require a password, or for you to nab a Key from someplace else... it's a fun, slightly less efficient take on a standard URL shortener.
