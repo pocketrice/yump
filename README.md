@@ -6,7 +6,7 @@
 > # What can I yump?
 > glad you asked! (୨୧ ❛ᴗ❛)✧
 >
-> Useful bits...
+> Useful things...
 > - **stock.yump.me** — CDN / bulk item storage
 > - **nb.yump.me** — audio storage syncing, khinsider dl, ID3 editor, stylish audio player
 > - **bin.yump.me** — private pastebin / Markdown notepad
