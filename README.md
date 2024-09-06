@@ -11,6 +11,7 @@
 > - **nb.yump.me** — audio storage syncing, khinsider dl, ID3 editor, stylish audio player
 > - **bin.yump.me** — private pastebin / Markdown notepad
 > - **ins.yump.me** — cheatsheets, api docs, etc.
+> - **pk.yump.me** — a pocket terminal instance
 > - **choco.yump.me** — magic file conversion tool
 > - **palace.yump.me** — switch palace-turned collab space; SMW-accurate yump simulator
 > - **warp.yump.me** — Warppipe interface
