@@ -13,7 +13,7 @@
 > - **lib.yump.me** — CDN, library/archive, bulk item storage
 > - **nb.yump.me** — audio storage syncing, khinsider dl, ID3 editor, stylish audio player
 > - **bin.yump.me** — private pastebin / Markdown notepad
-> - **ins.yump.me** — cheatsheets, api docs, etc.
+> - **inst.yump.me** — cheatsheets, api docs, etc.
 > - **pkt.yump.me** — a pocket terminal instance
 > - **lilac.yump.me** — speedy colour picker, background removal
 > - **choco.yump.me** — magic file conversion tool
