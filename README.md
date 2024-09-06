@@ -12,7 +12,7 @@
 > - **bin.yump.me** — private pastebin / Markdown notepad
 > - **ins.yump.me** — cheatsheets, api docs, etc.
 > - **pk.yump.me** — a pocket terminal instance
-> - **prisma.yump.me** — speedy colour picker
+> - **lilac.yump.me** — speedy colour picker
 > - **choco.yump.me** — magic file conversion tool
 > - **palace.yump.me** — switch palace-turned collab space; SMW-accurate yump simulator
 > - **warp.yump.me** — Warppipe interface
