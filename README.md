@@ -26,6 +26,7 @@
 > - **smw.yump.me** — all things Super Mario World 
 > - **l3v.yump.me** — /l3v/ SMW ROM hack corner
 > - **mc.yump.me** — private Fabric 1.21 server
+> - **theatre.yump.me** — basically GMod Tower's theatre
 > - **arr.yump.me** — sail the seven seas
 > - **jump.yump.me** — stylish counting device
 > - **dont.yump.me** — rest stop for internet travelers
