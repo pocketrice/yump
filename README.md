@@ -14,7 +14,7 @@
 > - **nb.yump.me** — audio storage syncing, khinsider dl, ID3 editor, stylish audio player
 > - **bin.yump.me** — private pastebin / Markdown notepad
 > - **ins.yump.me** — cheatsheets, api docs, etc.
-> - **pk.yump.me** — a pocket terminal instance
+> - **pkt.yump.me** — a pocket terminal instance
 > - **lilac.yump.me** — speedy colour picker
 > - **choco.yump.me** — magic file conversion tool
 > - **palace.yump.me** — switch palace-turned collab space; SMW-accurate yump simulator
@@ -26,7 +26,7 @@
 > - **smw.yump.me** — all things Super Mario World 
 > - **l3v.yump.me** — /l3v/ SMW ROM hack corner
 > - **mc.yump.me** — private Fabric 1.21 server
-> - **theatre.yump.me** — basically GMod Tower's theatre
+> - **tel.yump.me** — basically GMod Tower's theatre + somafm.com
 > - **arr.yump.me** — sail the seven seas
 > - **jump.yump.me** — stylish counting device
 > - **dont.yump.me** — rest stop for internet travelers
