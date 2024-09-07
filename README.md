@@ -31,6 +31,7 @@
 > - **pkmn.yump.me** — Pokémon Showdown with silly gimmicks
 > - **tel.yump.me** — basically GMod Tower's theatre + somafm.com
 > - **arr.yump.me** — sail the seven seas
+> - **place.yump.me** — a saner r/place
 > - **hump.yump.me** — atomic-accurate hump day tracker
 > - **jump.yump.me** — stylish counting device
 > - **dump.yump.me** — messiest corkboard ever
