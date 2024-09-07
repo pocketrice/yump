@@ -32,11 +32,14 @@
 > - **tel.yump.me** — basically GMod Tower's theatre + somafm.com
 > - **arr.yump.me** — sail the seven seas
 > - **place.yump.me** — a saner r/place
+> - **dont.yump.me** — rest stop for weary internet travelers
+>
+> ...and obligatory rhymes!
 > - **hump.yump.me** — atomic-accurate hump day tracker
 > - **thump.yump.me** — ba dum tsssss
 > - **jump.yump.me** — stylish counting device
 > - **dump.yump.me** — messiest corkboard ever
-> - **dont.yump.me** — rest stop for weary internet travelers
+> - **bump.yump.me** — forumboard for nonsense
 
 
 
