@@ -13,8 +13,10 @@
 > - **lib.yump.me** — CDN, library/archive, bulk item storage
 > - **nb.yump.me** — audio storage syncing, khinsider dl, ID3 editor, stylish audio player
 > - **bin.yump.me** — private pastebin / Markdown notepad
-> - **inst.yump.me** — cheatsheets, api docs, etc.
-> - **pkt.yump.me** — a pocket terminal instance
+> - **docs.yump.me** — cheatsheets, api docs, etc.
+> - **pkt.yump.me** — pocket terminal instance
+> - **how.yump.me** — quirky, harmless AI tools
+> - **wut.yump.me** — nab your whoami, IPv4, user-agent, etc.
 > - **lilac.yump.me** — speedy colour picker, background removal
 > - **choco.yump.me** — magic file conversion tool
 > - **palace.yump.me** — switch palace-turned collab space; SMW-accurate yump simulator
@@ -26,10 +28,12 @@
 > - **smw.yump.me** — all things Super Mario World 
 > - **l3v.yump.me** — /l3v/ SMW ROM hack corner
 > - **mc.yump.me** — private Fabric 1.21 server
+> - **pkmn.yump.me** — Pokémon Showdown with silly gimmicks
 > - **tel.yump.me** — basically GMod Tower's theatre + somafm.com
 > - **arr.yump.me** — sail the seven seas
+> - **hump.yump.me** — atomic-accurate hump day tracker
 > - **jump.yump.me** — stylish counting device
-> - **dump.yump.me** — a neat freak's nightmare
+> - **dump.yump.me** — messiest corkboard ever
 > - **dont.yump.me** — rest stop for weary internet travelers
 
 
