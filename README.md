@@ -39,6 +39,7 @@
 > - **tel.yump.me** — basically GMod Tower's theatre + somafm.com
 > - **arr.yump.me** — sail the seven seas
 > - **place.yump.me** — a saner r/place
+> - **golf.yump.me** — code golf expanded
 > - **dont.yump.me** — rest stop for weary internet travelers
 >
 > ...and obligatory rhymes!
