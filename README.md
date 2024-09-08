@@ -11,7 +11,7 @@
 >
 > Useful things...
 > - **lib.yump.me** — CDN, library/archive, bulk item storage
-> - **nb.yump.me** — audio storage syncing, khinsider dl, ID3 editor, stylish audio player
+> - **nb.yump.me** — audio storage syncing, khinsider dl, ID3 editor, stylish audio player + midi visualiser
 > - **bin.yump.me** — private pastebin / Markdown notepad
 > - **docs.yump.me** — cheatsheets, api docs, etc.
 > - **pkt.yump.me** — pocket terminal instance
@@ -20,6 +20,10 @@
 > - **lilac.yump.me** — speedy colour picker, background removal
 > - **choco.yump.me** — magic file conversion tool
 > - **palace.yump.me** — switch palace-turned collab space; SMW-accurate yump simulator
+> - **luna.yump.me** — Lunapic-style media editor
+> - **artpad.yump.me** — ibis paint / sketch.io / ms paint / \[insert drawing app] on the web
+> - **cafe.yump.me** — music creation + performance/rd practice kit
+> - **cork.yump.me** — latest updates from yump.me & solfleur.systems
 > - **warp.yump.me** — Warppipe interface
 > - **yump.me/** — url shortener!!
 > 
@@ -29,6 +33,9 @@
 > - **l3v.yump.me** — /l3v/ SMW ROM hack corner
 > - **mc.yump.me** — private Fabric 1.21 server
 > - **pkmn.yump.me** — Pokémon Showdown with silly gimmicks
+> - **gdq.yump.me** — circa-2020 GDQ toolkit
+> - **gdw.yump.me** — Gambler's Delight Web 
+> - **pkg.yump.me** — tiny flash/web/card games!
 > - **tel.yump.me** — basically GMod Tower's theatre + somafm.com
 > - **arr.yump.me** — sail the seven seas
 > - **place.yump.me** — a saner r/place
@@ -39,6 +46,7 @@
 > - **thump.yump.me** — ba dum tsssss
 > - **jump.yump.me** — stylish counting device
 > - **dump.yump.me** — messiest corkboard ever
+> - **gump.yump.me** — shrimp chefery simulator
 > - **bump.yump.me** — forumboard for nonsense
 
 
