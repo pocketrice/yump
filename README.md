@@ -12,7 +12,8 @@
 > Useful things...
 > - **lib.yump.me** — CDN, library/archive, bulk item storage
 > - **nb.yump.me** — audio storage syncing, khinsider dl, ID3 editor, stylish audio player + midi visualiser
-> - **bin.yump.me** — private pastebin / Markdown notepad
+> - **bin.yump.me** — private pastebin
+> - **log.yump.me** — personal daily/weekly/etc logs
 > - **pin.yump.me** — pin collections, link bundles, and more!
 > - **docs.yump.me** — cheatsheets, api docs, etc.
 > - **pkt.yump.me** — pocket terminal instance
