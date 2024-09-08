@@ -6,7 +6,7 @@
 > # Why should I yump?
 > It's a mish-mash of tiny fun creative services you might like, if you're into that type of thing. Also, those ! blocks won't fill themselves, you know... 
 
-> # What can I yump?
+> # What can I yump to?
 > glad you asked! (୨୧ ❛ᴗ❛)✧
 >
 > Useful things...
