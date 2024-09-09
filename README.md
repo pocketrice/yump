@@ -9,48 +9,48 @@
 > # What can I yump to?
 > glad you asked! (୨୧ ❛ᴗ❛)✧
 >
-> Useful places...
-> - **lib.yump.me** — CDN, library/archive, bulk item storage
-> - **nb.yump.me** — audio storage syncing, khinsider dl, ID3 editor, stylish audio player + midi visualiser
-> - **bin.yump.me** — private pastebin
-> - **log.yump.me** — personal daily/weekly/etc logs
-> - **pin.yump.me** — pin collections, link bundles, and more!
-> - **docs.yump.me** — cheatsheets, api docs, etc.
-> - **pkt.yump.me** — pocket terminal instance
-> - **how.yump.me** — quirky, harmless AI tools
-> - **wut.yump.me** — nab your whoami, IPv4, user-agent, etc.
-> - **lilac.yump.me** — speedy colour picker, background removal
-> - **choco.yump.me** — magic file conversion tool
-> - **palace.yump.me** — switch palace-turned collab space; SMW-accurate yump simulator
-> - **luna.yump.me** — Lunapic-style media editor
-> - **artpad.yump.me** — ibis paint / sketch.io / ms paint / \[insert drawing app] on the web
-> - **cafe.yump.me** — music creation + performance/rd practice kit
-> - **cork.yump.me** — latest updates from yump.me & solfleur.systems
-> - **warp.yump.me** — Warppipe interface
-> - **yump.me/** — url shortener!!
+> Useful places...<br><br>
+> □ **lib.yump.me** — CDN, library/archive, bulk item storage<br>
+> □ **nb.yump.me** — audio storage syncing, khinsider dl, ID3 editor, stylish audio player + midi visualiser<br>
+> ■ **bin.yump.me** — private pastebin<br>
+> □ **log.yump.me** — personal daily/weekly/etc logs<br>
+> □ **pin.yump.me** — pin collections, link bundles, and more!<br>
+> □ **docs.yump.me** — cheatsheets, api docs, etc.<br>
+> □ **pkt.yump.me** — pocket terminal instance<br>
+> □ **how.yump.me** — quirky, harmless AI tools<br>
+> □ **wut.yump.me** — nab your whoami, IPv4, user-agent, etc.<br>
+> □ **lilac.yump.me** — speedy colour picker, background removal<br>
+> □ **choco.yump.me** — magic file conversion tool<br>
+> □ **palace.yump.me** — switch palace-turned collab space; SMW-accurate yump simulator<br>
+> □ **luna.yump.me** — Lunapic-style media editor<br>
+> □ **artpad.yump.me** — ibis paint / sketch.io / ms paint / \[insert drawing app] on the web<br>
+> □ **cafe.yump.me** — music creation + performance/rd practice kit<br>
+> □ **cork.yump.me** — latest updates from yump.me & solfleur.systems<br>
+> □ **warp.yump.me** — Warppipe interface<br>
+> □ **yump.me/** — url shortener!!<br>
 > 
-> ...fun novelties...
-> - **starroad.yump.me** — secret world of mysteries (and secret exits)
-> - **smw.yump.me** — all things Super Mario World 
-> - **l3v.yump.me** — /l3v/ SMW ROM hack corner
-> - **mc.yump.me** — private Fabric 1.21 server
-> - **pkmn.yump.me** — Pokémon Showdown with silly gimmicks
-> - **gdq.yump.me** — circa-2020 GDQ toolkit
-> - **gdw.yump.me** — Gambler's Delight Web 
-> - **pkg.yump.me** — tiny flash/web/card games!
-> - **tel.yump.me** — basically GMod Tower's theatre + somafm.com
-> - **arr.yump.me** — sail the seven seas
-> - **place.yump.me** — a saner r/place
-> - **golf.yump.me** — code golf expanded
-> - **dont.yump.me** — rest stop for weary internet travelers
+> <br><br><br>...fun novelties...<br><br>
+> □ **starroad.yump.me** — secret world of mysteries (and secret exits)<br>
+> □ **smw.yump.me** — all things Super Mario World <br>
+> □ **l3v.yump.me** — /l3v/ SMW ROM hack corner<br>
+> ■ **mc.yump.me** — private Fabric 1.21 server<br>
+> □ **pkmn.yump.me** — Pokémon Showdown with silly gimmicks<br>
+> □ **gdq.yump.me** — circa-2020 GDQ toolkit<br>
+> □ **gdw.yump.me** — Gambler's Delight Web <br>
+> □ **pkg.yump.me** — tiny flash/web/card games!<br>
+> □ **tel.yump.me** — basically GMod Tower's theatre + somafm.com<br>
+> □ **arr.yump.me** — sail the seven seas<br>
+> □ **place.yump.me** — a saner r/place<br>
+> □ **golf.yump.me** — code golf expanded<br>
+> □ **dont.yump.me** — rest stop for weary internet travelers<br>
 >
-> ...and of course, obligatory rhymes
-> - **hump.yump.me** — atomic-accurate hump day tracker
-> - **thump.yump.me** — ba dum tsssss
-> - **jump.yump.me** — stylish counting device
-> - **dump.yump.me** — messiest corkboard ever
-> - **gump.yump.me** — shrimp chefery simulator
-> - **bump.yump.me** — forumboard for nonsense
+> <br><br><br>...and of course, obligatory rhymes<br><br>
+> □ **hump.yump.me** — atomic-accurate hump day tracker<br>
+> □ **thump.yump.me** — ba dum tsssss<br>
+> □ **jump.yump.me** — stylish counting device<br>
+> □ **dump.yump.me** — messiest corkboard ever<br>
+> □ **gump.yump.me** — shrimp chefery simulator<br>
+> □ **bump.yump.me** — forumboard for nonsense<br>
 
 
 
