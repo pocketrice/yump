@@ -9,7 +9,7 @@
 > # What can I yump to?
 > glad you asked! (୨୧ ❛ᴗ❛)✧
 >
-> Useful things...
+> Useful places...
 > - **lib.yump.me** — CDN, library/archive, bulk item storage
 > - **nb.yump.me** — audio storage syncing, khinsider dl, ID3 editor, stylish audio player + midi visualiser
 > - **bin.yump.me** — private pastebin
@@ -29,7 +29,7 @@
 > - **warp.yump.me** — Warppipe interface
 > - **yump.me/** — url shortener!!
 > 
-> ...and fun bits...
+> ...fun novelties...
 > - **starroad.yump.me** — secret world of mysteries (and secret exits)
 > - **smw.yump.me** — all things Super Mario World 
 > - **l3v.yump.me** — /l3v/ SMW ROM hack corner
@@ -44,7 +44,7 @@
 > - **golf.yump.me** — code golf expanded
 > - **dont.yump.me** — rest stop for weary internet travelers
 >
-> ...and obligatory rhymes!
+> ...and of course, obligatory rhymes
 > - **hump.yump.me** — atomic-accurate hump day tracker
 > - **thump.yump.me** — ba dum tsssss
 > - **jump.yump.me** — stylish counting device
