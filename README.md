@@ -14,7 +14,7 @@
 > □ **nb.yump.me** — audio storage syncing, khinsider dl, ID3 editor, stylish audio player + midi visualiser<br>
 > ■ **bin.yump.me** — private pastebin<br>
 > □ **todo.yump.me** — simple todo list<br>
-> □ **stats.yump.me** — r/DataIsBeautiful-esque graphs and data, usermap
+> □ **stats.yump.me** — r/DataIsBeautiful-esque graphs and data, usermap<br>
 > □ **log.yump.me** — personal daily/weekly/etc logs<br>
 > □ **pin.yump.me** — pin collections, link bundles, and more!<br>
 > □ **docs.yump.me** — cheatsheets, api docs, etc.<br>
