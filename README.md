@@ -11,7 +11,7 @@
 >
 > Useful places...<br><br>
 > □ **lib.yump.me** — CDN, library/archive, bulk item storage<br>
-> □ **nb.yump.me** — audio storage syncing, khinsider dl, ID3 editor, stylish audio player + midi visualiser<br>
+> □ **nb.yump.me** — audio storage syncing, khinsider dl, ID3 editor, stylish audio player + midi visualiser/daw<br>
 > ■ **bin.yump.me** — private pastebin<br>
 > □ **todo.yump.me** — simple todo list<br>
 > □ **stats.yump.me** — r/DataIsBeautiful-esque graphs and data, usermap<br>
@@ -28,6 +28,7 @@
 > □ **artpad.yump.me** — ibis paint / sketch.io / ms paint / \[insert drawing app] on the web<br>
 > □ **cafe.yump.me** — music creation + performance/rd practice kit<br>
 > □ **cork.yump.me** — latest updates from yump.me & solfleur.systems<br>
+> □ **oemu.yump.me** — OEMu resources<br>
 > □ **warp.yump.me** — Warppipe interface<br>
 > □ **yump.me/** — url shortener!!<br>
 > 
