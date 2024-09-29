@@ -36,6 +36,7 @@
 > □ **starroad.yump.me** — secret world of mysteries (and secret exits)<br>
 > □ **smw.yump.me** — all things Super Mario World <br>
 > □ **l3v.yump.me** — /l3v/ SMW ROM hack corner<br>
+> □ **neo.yump.me** — neofetch flexer<br>
 > ■ **mc.yump.me** — private Fabric 1.21 server<br>
 > □ **pkmn.yump.me** — Pokémon Showdown with silly gimmicks<br>
 > □ **gdq.yump.me** — circa-2020 GDQ toolkit<br>
