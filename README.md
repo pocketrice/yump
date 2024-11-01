@@ -18,6 +18,7 @@
 > □ **log.yump.me** — personal daily/weekly/etc logs<br>
 > □ **pin.yump.me** — pin collections, link bundles, and more!<br>
 > □ **docs.yump.me** — cheatsheets, api docs, unicode sheet, etc.<br>
+> □ **ffrw.yump.me** - quick and fast song flashing for the FFRW project
 > □ **pkt.yump.me** — pocket terminal instance<br>
 > □ **how.yump.me** — quirky, harmless AI tools<br>
 > □ **wut.yump.me** — nab your whoami, IPv4, user-agent, etc.<br>
@@ -38,6 +39,7 @@
 > □ **l3v.yump.me** — /l3v/ SMW ROM hack corner<br>
 > □ **neo.yump.me** — neofetch flexer<br>
 > ■ **mc.yump.me** — private Fabric 1.21 server<br>
+> □ **src.yump.me** - private TF2 / TF2C / HL2DM / \[insert Source game here] servers<br>
 > □ **pkmn.yump.me** — Pokémon Showdown with silly gimmicks<br>
 > □ **gdq.yump.me** — circa-2020 GDQ toolkit<br>
 > □ **gdw.yump.me** — Gambler's Delight Web <br>
