@@ -20,6 +20,7 @@
 > □ **docs.yump.me** — cheatsheets, api docs, unicode sheet, etc.<br>
 > □ **ffrw.yump.me** - quick and fast song flashing for the FFRW project<br>
 > □ **pkt.yump.me** — pocket terminal instance<br>
+> □ **rss.yump.me** — simple RSS web reader + *.yump.me feeds<br>
 > □ **how.yump.me** — quirky, harmless AI tools<br>
 > □ **wut.yump.me** — nab your whoami, IPv4, user-agent, etc.<br>
 > □ **lilac.yump.me** — speedy colour picker, background removal<br>
