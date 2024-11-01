@@ -18,7 +18,7 @@
 > □ **log.yump.me** — personal daily/weekly/etc logs<br>
 > □ **pin.yump.me** — pin collections, link bundles, and more!<br>
 > □ **docs.yump.me** — cheatsheets, api docs, unicode sheet, etc.<br>
-> □ **ffrw.yump.me** - quick and fast song flashing for the FFRW project
+> □ **ffrw.yump.me** - quick and fast song flashing for the FFRW project<br>
 > □ **pkt.yump.me** — pocket terminal instance<br>
 > □ **how.yump.me** — quirky, harmless AI tools<br>
 > □ **wut.yump.me** — nab your whoami, IPv4, user-agent, etc.<br>
