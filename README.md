@@ -39,6 +39,7 @@
 > □ **smw.yump.me** — all things Super Mario World <br>
 > □ **l3v.yump.me** — /l3v/ SMW ROM hack corner<br>
 > □ **neo.yump.me** — neofetch flexer<br>
+> ■ **tcg.yump.me** — TCGP-esque web battler; physical in lieu of digital expansions + integration with pokepass<br>
 > ■ **mc.yump.me** — private Fabric 1.21 server<br>
 > □ **src.yump.me** - private TF2 / TF2C / HL2DM / \[insert Source game here] servers<br>
 > □ **pkmn.yump.me** — Pokémon Showdown with silly gimmicks<br>
