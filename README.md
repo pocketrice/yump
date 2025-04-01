@@ -66,5 +66,5 @@
 > # Yump me to \[x]...
 > Sure — just use yump.me/xxx to yump to its corresponding place! Some yumps might require a password, or for you to nab a Key from someplace else... it's a fun, slightly less efficient take on a standard URL shortener.
 
-> # can i haz color pls
+> # **color, please**
 > #8589ed
